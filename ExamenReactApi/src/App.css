@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3rem;
+  font-family: fantasy;
+  margin-bottom: 80px;
+}
+
+footer {
+  display: flex;
+  
+  justify-content: center;
+  padding-top: 50px;
+  align-items: center;
+}
+
+.Api {
+ 
+  height: 600px;
+}
